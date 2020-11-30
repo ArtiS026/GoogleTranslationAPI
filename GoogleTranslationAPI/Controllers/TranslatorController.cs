@@ -21,7 +21,7 @@ namespace GoogleTranslationAPI.Controllers
         {
             _translator = translator;
         }
-
+         
 
         [HttpGet]
         [Route("Translate")]
