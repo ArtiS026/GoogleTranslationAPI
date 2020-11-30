@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "erudite-scanner-297016",
+  "private_key_id": "58dbf6e6900bbf02f791025e9e27f36c556cad42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSqaCNrMYdb7H5\nnGf38Nai8lzRwbT/wwmeml7Gwn6Uq/STRDJGlOTxTBBgqDSWQEemEZ9cNeS9TG7B\nY60n6OsSiGPjgo5EMBpTXJG6BitieBNFEiYTeQiJ2gyvsK0gssCt/OmTpy/ZnbGW\n9TW9+kV9D+QugeK4bjwv3w9dUzRSHnzBXwdtOEXtmJwsI0RRZCt/yc1uSqppueEq\njHd8qjgfeAWF5Mx6n2UoYce+s6vpbR3s1L9jUlMUDS+JdFlPMqF3+o3UpOVD0pNg\nCxWO+w3QsxAvoI1oUf+rWNaSTQsz/bxfVjMy9H3ubeN9OyVgbnWnHceMssC7dOI6\nPlZvwyXFAgMBAAECggEABVOGnK5mn+3oCRCcTFeJhbss/5yvL9xFjP4IMWxPeQDU\nATkzMDephjRPIbJ/CeF8LkW5ysIOE38wObGEekLYVrKeG+18HVs9/yeTA6oORMIW\ncqOf1NQ1lA6wTWzhI7eBSaTgXvxWKGFlURTIFBKU2TGiqk5cZh9bZDZ2k/x7kSvq\nYtdAdT7b5+7o9x8vkNghZbXTqo1NoFl41rWM/qPXWjvNS8hXfnSCzjhJqN3pFVl7\nZo6mHn/iN1uv0uXupZCZY9YbHu+MGqlKVJggrn22aRCy73VVsWH+4+ALYUpxg/lC\nPEod2VcirWdGhkirSarSB5np7FSzniTQvyPxQvhpDQKBgQD6V5lEFnPUsCHI0fWx\nTQ7ConFWhk+nBmXYRWq4csa/30DvVEu+1feW7ZSltImeyLErOz0L6eJexGsGFjKZ\n+4Vl+J1hR/OKwyG2yW3B8KAYLNwXbrXpwqbGrw5rzROLv7QBnjXn8y8CT/m89ZMU\ni9QxuVZx1iBxEWyEKdRAe8j/cwKBgQDXbHRzslWlLtDCCzUJ0dw/VG1q85KL3Jes\nyZJD4DMw3LIjY91zy+WQUX9wp4H3nNyV1eQ6BHu9bXdWoI/WlDfShwMcAxaK0+c+\n3ZyqgRg7ga3gKhYvC9a/klEFXoMRY3uZc/prxvU4LOgIoDED9JEK2sjMe5yrnPzz\nn4aa/NWH5wKBgHnL1rCOr+ohiz5WEFAjqnO9bqDnFaewcCppk4OLq/C74K7P904w\ncZYHntOD45TSFYhv+MJsFwt+SoeakyHhgkRbUc57oBy51RRGKdU6idlZMfdgkLbb\nUiLGFqESFFlgemZzH8zqvstEN7/cRqOvaByNDGa0A/KexIoEg9SfpOnLAoGAMUKB\nlnsvDmiYH+cEJ8yvOmQJ6SztU8ILhN1K7u5zhjbRHTqWxwXW5ptcMtx64a4i2rhg\nScwAp55CbbKlcYHPCfsJgPxLyU8PT9bJHkwKyICsy9eT3wor/v5sPHgSLIW9G6fj\nmYWTSVcrb92Bl8/y4rKIvAmAF9X8GZFe7E3oXf0CgYAmeEeDmiYwXMmZdRkFy4K0\nmVP5sxPlqt6syQ/xLeJEyWd3bp1TnUyhE0/ws34kiWRYY03dZAHkyeglkVRvKdE6\nKh02YM8cun6QEaoqYZ6z5aE4QmNs7sdhwMSGEHC887fEoMHhfYSkMZtJvi+Kv3VB\nhZxl8LSMNQohkOtmsvu4TQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "new-service-account@erudite-scanner-297016.iam.gserviceaccount.com",
+  "client_id": "102461513981952752633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/new-service-account%40erudite-scanner-297016.iam.gserviceaccount.com"
+}
